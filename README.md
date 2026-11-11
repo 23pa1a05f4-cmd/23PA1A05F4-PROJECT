@@ -1,3 +1,4 @@
+<img width="688" height="1536" alt="home_screen" src="https://github.com/user-attachments/assets/0d9115d2-5aee-4c3c-923f-6eb1baed12a3" />
 # 🌍 Country Explorer – Flutter Widget Testing
 
 A modern and interactive Country Explorer application developed using Flutter and Dart. The application fetches live data from the REST Countries API and displays each country's flag, population, languages, region and capital, with live search and region filtering.
