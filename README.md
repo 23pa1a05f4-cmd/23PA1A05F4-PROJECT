@@ -65,7 +65,7 @@ User types in search / taps a region chip → query / selectedRegion updated
 ## 🖥️ Application Screenshots
 
 ### 1. Home Screen with Country List
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](<img width="250" alt="home_screen" src="https://github.com/user-attachments/assets/0d9115d2-5aee-4c3c-923f-6eb1baed12a3" />)
 
 ### 2. Region Filter Applied
 ![Region Filter](screenshots/region_filter.png)
