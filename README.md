@@ -1,4 +1,5 @@
-<img width="688" height="1536" alt="home_screen" src="https://github.com/user-attachments/assets/0d9115d2-5aee-4c3c-923f-6eb1baed12a3" />
+<img width="688" height="1536" alt="region_filter" src="https://github.com/user-attachments/assets/492d5d91-7eac-40a7-a21e-ce0362aabc73" />
+
 # 🌍 Country Explorer – Flutter Widget Testing
 
 A modern and interactive Country Explorer application developed using Flutter and Dart. The application fetches live data from the REST Countries API and displays each country's flag, population, languages, region and capital, with live search and region filtering.
@@ -65,16 +66,16 @@ User types in search / taps a region chip → query / selectedRegion updated
 ## 🖥️ Application Screenshots
 
 ### 1. Home Screen with Country List
-![Home Screen](<img width="250" alt="home_screen" src="https://github.com/user-attachments/assets/0d9115d2-5aee-4c3c-923f-6eb1baed12a3" />)
+<img width="250" alt="home_screen" src="https://github.com/user-attachments/assets/0d9115d2-5aee-4c3c-923f-6eb1baed12a3" />
 
 ### 2. Region Filter Applied
-![Region Filter](screenshots/region_filter.png)
+<img width="250" alt="region_filter" src="https://github.com/user-attachments/assets/492d5d91-7eac-40a7-a21e-ce0362aabc73" />
 
 ### 3. Search Results (Indonesia)
-![Search Results](screenshots/search_result.png)
+<img width="250" alt="search_result" src="https://github.com/user-attachments/assets/d1acfff3-5185-40ab-bb55-e81a1cd549ef" />
 
 ### 4. Country Detail Screen
-![Country Detail](screenshots/country_detail.png)
+<img width="250" alt="country_detail" src="https://github.com/user-attachments/assets/c9f3a067-0f1e-422f-bb2b-29fe9bffae1c" />
 
 ## 💻 Source Code
 
