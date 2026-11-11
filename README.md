@@ -1,4 +1,3 @@
-<img width="688" height="1536" alt="region_filter" src="https://github.com/user-attachments/assets/492d5d91-7eac-40a7-a21e-ce0362aabc73" />
 
 # 🌍 Country Explorer – Flutter Widget Testing
 
